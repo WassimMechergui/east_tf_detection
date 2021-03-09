@@ -1,0 +1,1 @@
+Make sure to download frozen_east_test.pb from https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV
